@@ -12,11 +12,11 @@ Informações pertinentes a disciplina:
  - **Disciplina**: Linguagem de Programação (LPRO)
  - **Turma**: Tecnologia em Mecatrônica Industrial
  - **Professor**: Auzuir Ripardo de Alexandria
- - **Monitores**: 
-					 - Yuri Daniel Uchoa Fernandes
+ - **Monitores**:<br> 
+					 - Yuri Daniel Uchoa Fernandes<br>
 					 - Heverson de Oliveira Morais
 				
-- **Calendário Acadêmico:** (inserir link)
+- **Calendário Acadêmico:** ([2023.2](https://ifce.edu.br/fortaleza/calendario/calendario-2023.2))
 
 ## Horários
 
