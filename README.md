@@ -30,26 +30,17 @@ Horários da aulas de Linguagem de Programação seguindo o horário das aulas d
 
 ## 💻 Monitoria
 
-A seguir estão os horários disponíveis de cada monitor. Vocês podem entrar em contato fora dos horários, mas talvez não iremos conseguir responder de imediato.
+A seguir estão os dias e horários onde cada bolsista estará atendendo presencialmente no LIE. Fora desses horários o atendimento é online. 
 
 
  **Heverson**
 | Dia da semana | Início | Fim  | Início | Fim |
 |---------------|--------|------|--------|-----|
-| Segunda-feira | 14:00 | 18:00 |        |     |
-| Terça-feira   | 10:00 | 12:00 | 14:00  |16:00|
-| Quarta-feira  | 10:00 | 12:00 | 14:00  |16:00|
-| Quinta-feira  | 15:00 | 17:00 |        |     |
-| Sexta-feira   | 16:00 | 18:00 |        |     |
+| Quarta-feira  | 13:30  | 17:30 |       |     |
 
 **Yuri**
 | Dia da semana | Início | Fim  | Início | Fim |
 |---------------|--------|------|--------|-----|
-| Segunda-feira |        |      |        |     |
-| Terça-feira   |        |      |        |     |
-| Quarta-feira  |        |      |        |     |
-| Quinta-feira  |        |      |        |     |
-| Sexta-feira   |        |      |        |     |
 
 
 ## 📝 Como utilizar esse repositório
